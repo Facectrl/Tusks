@@ -1,0 +1,1 @@
+import tensorflow as tf  # для импорта библиотеки tensorflow из папки tensorflow
